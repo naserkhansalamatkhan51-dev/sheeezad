@@ -1,14 +1,14 @@
 # Shehzad Khan — Digital Portfolio
 
 ![Profile](https://img.shields.io/badge/B.Tech-CSE-00e5ff?style=for-the-badge)
-![University](https://img.shields.io/badge/MITVPU-Mumbai-00ff9d?style=for-the-badge)
+![University](https://img.shields.io/badge/MITVPU-Solapur-00ff9d?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-1st%20Year-0af5c0?style=for-the-badge)
 
 ---
 
 ## 👤 About Me
 
-**Khan Shehzad Naser Khan** — B.Tech CSE Student at **MIT Vishwaprayag University (MITVPU)**, Mumbai.  
+**Khan Shehzad Naser Khan** — B.Tech CSE Student at **MIT Vishwaprayag University (MITVPU)**, solapur.  
 Passionate about **Python**, **Artificial Intelligence**, and **building real-world software**.  
 Aspiring **AI Software Engineer** 🤖
 
